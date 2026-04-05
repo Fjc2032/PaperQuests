@@ -1,0 +1,8 @@
+name: PaperQuests
+version: '0.1.0-alpha'
+main: dev.Fjc.paperQuests.PaperQuests
+api-version: '1.21'
+prefix: PaperQuests
+load: STARTUP
+authors: [ Fjc ]
+description: Apollo-style conditional quests
