@@ -4,5 +4,5 @@ main: dev.Fjc.paperQuests.PaperQuests
 api-version: '1.21'
 prefix: PaperQuests
 load: STARTUP
-authors: [ Fjc ]
+authors: [ Rat, Fjc ]
 description: Apollo-style conditional quests
